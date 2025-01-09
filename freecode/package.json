@@ -1,0 +1,19 @@
+{
+	"name": "freecode",
+	"version": "1.3.0",
+	"main": "myApp.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"freecodecamp",
+		"nico",
+		"saucisse"
+	],
+	"author": "Chapelle Nicolas",
+	"license": "JAMES BOND",
+	"description": "A project that does something awesome",
+	"dependencies": {
+		"express": "^4.21.2"
+	}
+}
